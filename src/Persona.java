@@ -28,4 +28,6 @@ public class Persona {
 
 // Autor: Celia Romero Díaz.
 
+// Autor2: Celia Romero Díaz.
+
 }
