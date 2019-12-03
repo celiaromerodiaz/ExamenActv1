@@ -1,4 +1,7 @@
 public class Persona {
+
+// Descripción: Interfaz persona.
+
 	public String nombre;
 	private String apellido;
 
@@ -22,4 +25,9 @@ public class Persona {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
+
+// Autor: Celia Romero Díaz.
+
+// Autor2: Celia Romero Díaz.
+
 }
