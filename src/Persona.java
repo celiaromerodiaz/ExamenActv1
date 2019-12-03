@@ -1,4 +1,7 @@
 public class Persona {
+
+// Descripción: Interfaz persona.
+
 	public String nombre;
 	private String apellido;
 
